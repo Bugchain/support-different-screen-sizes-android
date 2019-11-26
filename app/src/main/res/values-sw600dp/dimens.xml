@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="logo_margin_top">170dp</dimen>
+    <dimen name="logo_text_margin_top">30dp</dimen>
+    <dimen name="logo_text_size">40sp</dimen>
+    <dimen name="btn_next_margin">40dp</dimen>
+    <dimen name="logo_icon_width">150dp</dimen>
+    <dimen name="logo_icon_height">150dp</dimen>
+
+    <fraction name="btn_next_percent_width">0.5</fraction>
+
+</resources>
